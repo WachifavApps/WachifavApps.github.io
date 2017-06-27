@@ -388,3 +388,83 @@ span.ab-sign-bot{width:10px;height:10px;}
 .changer-right-trd{width:85%;}
 .contact-left input[type="submit"]{font-size:0.75em;}
 }
+/*--footer start here--*/
+.footer {
+    padding:4.5em 0em;
+    background: #A5A5A5;
+}
+.ftr-grid h3 {
+    font-size: 2em;
+    color: #fff;
+    margin-bottom: 0.5em;
+    font-weight: 700;
+    font-family: 'Archivo Narrow', sans-serif;
+}
+.ftr-grid ul {
+    padding: 0px;
+    list-style: none;
+}
+.ftr-grid ul li{
+    margin-bottom:0.5em;
+}
+.ftr-grid ul li a {
+    color: #fff;
+    font-size: 1em;
+}
+.ftr-grid ul li a:hover{
+    color:#fdbd10;
+}
+.ftr-grid p {
+    font-size: 1em;
+    color: #fff;
+    line-height: 1.8em;
+}
+span.tweet-img {
+    background: url(../images/tw.png)no-repeat;
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+}
+.tweet-icon {
+    float: left;
+    width: 10%;
+}
+.tweet-text {
+    float: right;
+    width:88%;
+}
+.tweet-text p {
+    font-weight: bold;
+    font-size: 1em;
+    color: #000;
+}
+.ftr-iblock {
+    float: left;
+    width: 15%;
+}
+.ftr-text {
+    float: right;
+    width: 85%;
+}
+.ftr-iblock  span.glyphicon.glyphicon-map-marker {
+    font-size: 1.7em;
+    color: #fff;
+}
+.ftr-iblock  span.glyphicon.glyphicon-envelope {
+    font-size: 1.5em;
+    color:#fff;
+}
+.ftr-iblock span.glyphicon.glyphicon-earphone{
+	 font-size: 1.5em;
+    color:#fff;
+}
+.ftr-text p a {
+    color: #fff;
+}
+.ftr-text p a:hover {
+    color: #fdbd10;
+}
+.ftr-icons {
+    margin-bottom: 0.6em;
+}
+/*--footer end here--*/
